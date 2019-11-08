@@ -1,6 +1,6 @@
 # Rock, Paper, Scissors
 # Author:  Ryan Hawkins
-# Updated:  2019-11-02
+# Updated:  2019-11-08
 
 import random
 import os
